@@ -20,5 +20,5 @@
  
  ##
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-vieira-8b6515250)](https://www.linkedin.com/in/jackson-vieira-8b6515250) 
- [![Twitter Badge](https://img.shields.io/badge/-@jaquiso_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jaquiso_)](https://twitter.com/jaquiso_) 
-[![Gmail Badge](https://img.shields.io/badge/-jacksonvieiira12@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacksonvieiira12@gmail.com)](mailto:jacksonvieiira12@gmail.com)
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/jaquiso_)](https://twitter.com/jaquiso_) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacksonvieiira12@gmail.com)](mailto:jacksonvieiira12@gmail.com)
