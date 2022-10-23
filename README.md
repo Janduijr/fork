@@ -1,7 +1,6 @@
 ## Hi there, I'm Jackson Vieira 
 
 - 💻 I am a student of the 2° year of the Informatics course at IFRN, Campus Pau dos Ferros;
-- 📕 Learning Django Framework;
 - 🐍 Passionate about problem solution through algorithms of programming;
 
  <div style="display: inline_block"><br>
