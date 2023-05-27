@@ -1,6 +1,6 @@
 ## Jackson Vieira 
 
-I'm a Frontend web developer focusing on ```Typescript``` and ```VueJS```.
+I'm a Frontend web developer focusing on ```Typescript``` and ```VueJS```and in my spare time I'm gay.
 
 Currently studying more about **Clean architecture**, **Software architecture** in general and other interesting topics such **Design Patterns**.
 
